@@ -11,7 +11,17 @@ This app is designed to save time making grocery lists and meal plans.
 
 - As a user I want to be able to easily add, romove, and edit recipes. Items will have attributes: NAME, PICTURE, RECIPE STEPS, CALORIES, PREP TIME, CATEGORY(breakfast, lunch, dinner, snack), INGREDIENTS, and LIKE/DISLIKE. Might need a different table for each CATEGORY.
 
+Computer Layout Wireframe:
 "https://drive.google.com/thumbnail?id=0B6z5p82sidMKcHBRN3V5cEFYN0k&authuser=0&v=1437599143460&sz=w1256-h582"
+
+Cell Phone Layout 1:
+https://drive.google.com/thumbnail?id=0B6z5p82sidMKVkVHUHl6ZW15ZUk&authuser=0&v=1437599148636&sz=w1256-h582
+
+Cell Phone Layout 2:
+https://drive.google.com/thumbnail?id=0B6z5p82sidMKSXlEZTg1NmhNTHc&authuser=0&v=1437599155101&sz=w1256-h582
+
+ERD:
+"https://drive.google.com/thumbnail?id=0B6z5p82sidMKcHBHUFIxMkgxVGs&authuser=0&v=1437599159366&sz=w1256-h582"
 
 - If multiple users, will need a user table.
 
