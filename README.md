@@ -11,6 +11,12 @@ This app is designed to save time making grocery lists and meal plans.
 
 - As a user I want to be able to easily add, romove, and edit recipes. Items will have attributes: NAME, PICTURE, RECIPE STEPS, CALORIES, PREP TIME, CATEGORY(breakfast, lunch, dinner, snack), INGREDIENTS, and LIKE/DISLIKE. Might need a different table for each CATEGORY.
 
+<img scr="https://drive.google.com/thumbnail?id=0B6z5p82sidMKcHBRN3V5cEFYN0k&authuser=0&v=1437599143460&sz=w1256-h582">
+
+- If multiple users, will need a user table.
+
+- I want to be able to share data between multiple users.
+
 - Once items are added to the panty list, I want to hit a "WHAT CAN I MAKE?" button, that will check the items in my pantry against recipe INGREDIENTS, if I have the necessary items it will show a list of recipes that I can make.
 
 - It will also allow me to select the number of people I'm cooking for and multiply the recipe by that number.
@@ -41,3 +47,4 @@ This app is designed to save time making grocery lists and meal plans.
 
 - Optional: allergy to ingredient. Don't show recipes with that ingredient.
 
+- Optional: Authentication for individual users
