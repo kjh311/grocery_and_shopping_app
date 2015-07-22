@@ -5,19 +5,25 @@ This app is designed to save time making grocery lists and meal plans.
 
 ##User Stories
 
+###Minimum Viable Product
+
 - As a user I want to be able to easily add, romove, and edit items in a grocery list.  Items will have attributes: NAME, QUANTITY, and maybe COST.
 
 - As a user I want to be able to easily add, romove, and edit items in a pantry list. Items will have attributes: NAME, QUANTITY. Optional: Expiration date.
 
 - As a user I want to be able to easily add, romove, and edit recipes. Items will have attributes: NAME, PICTURE, RECIPE STEPS, CALORIES, PREP TIME, CATEGORY(breakfast, lunch, dinner, snack), INGREDIENTS, and LIKE/DISLIKE. Might need a different table for each CATEGORY.
 
-- If multiple users, will need a user table.
-
-- I want to be able to share data between multiple users.
-
 - Once items are added to the panty list, I want to hit a "WHAT CAN I MAKE?" button, that will check the items in my pantry against recipe INGREDIENTS, if I have the necessary items it will show a list of recipes that I can make.
 
 - It will also allow me to select the number of people I'm cooking for and multiply the recipe by that number.
+
+- I want to be able to add to my shopping list directly, as well as based on which recipes I want for the week.  I choose my meal plan for the week and it adds the necessary INGREDIENTS to the shopping list.
+
+### Icebox Features
+
+- If multiple users, will need a user table.
+
+- I want to be able to share data between multiple users.
 
 - Once I select "USE THIS RECIPE" it will subtract the ingredients from my pantry list if it has a quantity, it will not subtract certain items, like salt, if the recipe requires a teaspoon of salt.  Salt will just have to be manually added to the shopping list when it runs out.
 
@@ -30,8 +36,6 @@ This app is designed to save time making grocery lists and meal plans.
 - Recipes that I've LIKEd will appear near the top of the list, disliked near the bottom.
 
 - If I see a recipe that I want to make but I don't have the necessary ingredients, it will tell me: "You need eggs." "Add to grociery list?
-
-- I want to be able to add to my shopping list directly, as well as based on which recipes I want for the week.  I choose my meal plan for the week and it adds the necessary INGREDIENTS to the shopping list.
 
 - After going to the store the shopping list items gets transfered to the pantry list.
 
