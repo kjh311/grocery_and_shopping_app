@@ -1,4 +1,4 @@
-#GROCERY STORE APP
+#GROCERY STORE APP (this app was never made)
 
 This app is designed to save time making grocery lists and meal plans.
 
